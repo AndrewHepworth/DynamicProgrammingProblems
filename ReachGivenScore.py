@@ -1,4 +1,4 @@
-# User function Template for python3
+#https://practice.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&page=1&query=category[]Dynamic%20Programmingpage1category[]Dynamic%20Programming
 
 def count(n):
     memset = []
